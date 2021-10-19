@@ -7,10 +7,9 @@ body{
 
 /* Global */
 .container{
-    width:80%;
+    width:150px;
     margin: auto;
     overflow: hidden;
-    height: 50%;
 }
 
 ul{
