@@ -27,6 +27,11 @@ ul{
     color: #ffffff;
 }
 
+button :hover{
+    background-colour: #e8491d;
+    color: white;
+}
+    
 .dark{
     padding: 15px;
     background: #35424a;
