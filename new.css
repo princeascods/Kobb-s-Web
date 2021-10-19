@@ -27,7 +27,7 @@ ul{
     color: #ffffff;
 }
 
-.button_1 :hover{
+.button_1:hover{
     background-colour: #e8491d;
     color: white;
 }
